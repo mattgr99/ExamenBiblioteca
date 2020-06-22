@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaExamen", "BibliotecaExamen.csproj", "{326A737A-9DB1-48BD-8B6F-87EA6BA28EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEUBiblioteca", "..\BEUBiblioteca\BEUBiblioteca.csproj", "{6F4C1FD3-A29F-4DB1-82A6-FD9CF89D592D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{326A737A-9DB1-48BD-8B6F-87EA6BA28EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326A737A-9DB1-48BD-8B6F-87EA6BA28EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326A737A-9DB1-48BD-8B6F-87EA6BA28EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326A737A-9DB1-48BD-8B6F-87EA6BA28EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4C1FD3-A29F-4DB1-82A6-FD9CF89D592D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4C1FD3-A29F-4DB1-82A6-FD9CF89D592D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4C1FD3-A29F-4DB1-82A6-FD9CF89D592D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4C1FD3-A29F-4DB1-82A6-FD9CF89D592D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD6531FA-52DF-4D0D-8BDC-171C56392613}
+	EndGlobalSection
+EndGlobal
